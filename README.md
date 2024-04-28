@@ -1,1 +1,11 @@
 # SNHU_portfolio
+
+## Corner Grocer
+This project is to demonstrate the creation of a grocery application to store grocery list and perform operations of looking up an item, save data to file, print grocery list, print histogram, and exit the application.  The application uses a class Grocer manager to store the grocery list and perform the operations.  The class also has private data member to store the file name and the input/grocery list.  The application the reads data from the input file, process the data, and stores it in a map data structure.
+
+### Insights
+This application was giving me trouble with running because it kept putting the menu and the input of it in the debug console.  I had to research high and low for an explanation for it and even then, it was struggling to complete the task.  The other problem that I had was reading the documentation for the map implementation.  At first, I didn’t realize it was in an optional chapter to read and kept skipping over it.  I will say that I didn’t feel fully confident in creating this application and kept looking for examples of this type of project to get an understanding.
+
+To enhance my code, I probably would make sure to make the classes and the functions a little bit more specific so that there is a clear distinction between them.  For myself, the most challenging part of the code was the implementaiton of the map storage.  It was still very new to me and I had a problem on figuring out where to start with it.  After a long time of reading and tutorials, I finally figured out how to implement it properly with out errors occuring.
+
+The most important part of this project is the ability for this code to be maintained in the future.  From this the code uses in-line comments and appropriate naming conventions to make the code easy to read.  With minimal code, it also is adaptable to use for other projects as an eample to use.  With this project, it has helped to realize that the code can be maintaned in a funcitnal way and allows me to understand the work it take to work on a project by myself.  I have done so in the past, but it is a great reminder to fall back on the skills one already has and to be able to move further along while building new skills in the process.
